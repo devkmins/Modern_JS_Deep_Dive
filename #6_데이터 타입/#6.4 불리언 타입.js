@@ -1,6 +1,6 @@
 // 6-16
 var foo = true;
-console.log(foo);
+console.log(foo); // true
 
 foo = false;
-console.log(foo);
+console.log(foo); // false

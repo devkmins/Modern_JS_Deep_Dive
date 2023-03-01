@@ -13,6 +13,8 @@ var hex = 0x41; // 16진수
 console.log(binary); // 65
 console.log(octal); // 65
 console.log(hex); // 65
+console.log(binary === octal); // true
+console.log(octal === hex); // true
 
 // 6-3
 

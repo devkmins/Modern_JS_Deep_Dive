@@ -44,8 +44,8 @@ console.log(`My name is ${first} ${last}.`);
 
 
 // 6-14
-console.log(`1 + 2 = ${1 + 2}`);
+console.log(`1 + 2 = ${1 + 2}`); // 1 + 2 = 3
 
 
 // 6-15
-console.log('1 + 2 = ${1 + 2}');
+console.log('1 + 2 = ${1 + 2}'); // 1 + 2 = ${1 + 2}
